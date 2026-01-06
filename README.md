@@ -6,7 +6,7 @@
 
 I am a Brazilian full stack web developer passionate about creating efficient digital solutions. I work on developing modern systems, maintaining legacy systems, and analyzing requirements, always focusing on delivering scalable and well-structured results.
 
-I have experience with PHP, Laravel, Vue.js, Vuetify, and AngularJS, as well as databases such as PostgreSQL, MySQL, Firebird, and Oracle. I also create development environments with Docker and use GitHub and GitLab for version control.</p>
+I have experience with PHP, Laravel, Vue.js, Vuetify, Angular and Next.Js, as well as databases such as PostgreSQL, MySQL, Firebird, and Oracle. I also create development environments with Docker and use GitHub and GitLab for version control.</p>
 
 ###
 
